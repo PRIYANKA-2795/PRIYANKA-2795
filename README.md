@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PRIYANKA-2795
+- 👀 I’m interested in  Java Programming and software testing...
+- 🌱 I’m currently learning  AWS .
